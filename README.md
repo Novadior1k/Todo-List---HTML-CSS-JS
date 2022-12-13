@@ -7,3 +7,5 @@
   This project is meant to exercise and show my skills with JavaScript, therefore I created a task list which can be created with Html Css and JavaScript.
   In this Project you can add a task that you may want to remember later, and it will be sent to the tasks part where you can delete it or edit. It doesn't
   contain a localStorage, server or a database but I plan to add them to the project later on.
+### Website Link: 
+    https://novadior1k.github.io/TodoList-HTML-CSS-JS/
